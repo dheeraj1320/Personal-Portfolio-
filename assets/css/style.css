@@ -171,8 +171,6 @@ img {
 }
 
 .carousel-item img {
-  /* border-top-left-radius: 20px;
-  border-top-right-radius: 20px; */
   border-top-left-radius: var(--bs-border-radius-xl) !important;
   border-top-right-radius: var(--bs-border-radius-xl) !important;
 }
