@@ -109,6 +109,10 @@ img {
   color: var(--color-brand);
 }
 
+.logo {
+  width: 150px;
+}
+
 @media (min-width: 992px) {
   .navbar {
     min-height: 100vh;
