@@ -111,6 +111,8 @@ img {
 
 .logo {
   width: 150px;
+
+  margin: -22px;
 }
 
 @media (min-width: 992px) {
